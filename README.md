@@ -1,7 +1,7 @@
 ### Welcome! 👋
 
 <!--
-```
+```python
 My name is Jefferson and I love designing software architectures that help companies and people succeed.
 
 class Person
