@@ -1,16 +1,29 @@
-### Hi there 👋
+### Welcome! 👋
 
 <!--
-**jeffara/jeffara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jefferson and I love designing software architectures that help companies and people succeed.
 
-Here are some ideas to get you started:
+class Person
+  def initialize
+    @name = 'Jeff Araujo'
+    @occupation = 'Entrepreneurship | Solution Architect | Artificial Intelligence | Digital Marketing'
+    @interests = ['Christianism', 'Digital Marketing', 'AI', 'Software Development', 'Reading', 'Architecting Solutions', 'Innovation', 'Studying']
+    @twitter = '@jaraujo.digital'
+    @linkedin = 'https://www.linkedin.com/in/jeffaraujo/'
+    @instagram = 'https://www.instagram.com/jeffaraujo.digital/'
+  end
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  def past_projects
+    @previous_employer = { role: 'Principal Technical Architect', locations: ['São Paulo', 'SP', 'Brazil'], tenure: '1 year' }
+    @previous_employers = ['SAS', 'Adobe', 'Liferay']
+  end
+
+  def current_project
+    @current_project = {company: 'Thrivus', industry: 'AI Consulting Services', website: 'https://thrivus.io'}
+  end
+
+  def future_projects
+    @future_problems_to_solve = ['Researching...']
+  end
+end
 -->
