@@ -1,6 +1,7 @@
 ### Welcome! 👋
 
 <!--
+```
 My name is Jefferson and I love designing software architectures that help companies and people succeed.
 
 class Person
@@ -26,4 +27,5 @@ class Person
     @future_problems_to_solve = ['Researching...']
   end
 end
+```
 -->
