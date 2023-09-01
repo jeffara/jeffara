@@ -3,7 +3,6 @@
 My name is Jefferson and I love designing software architectures that help companies and people succeed.
 
 ```python
-
 class Person
   def initialize
     @name = 'Jeff Araujo'
